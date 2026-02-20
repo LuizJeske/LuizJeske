@@ -7,7 +7,7 @@
 Sou apaixonado por tecnologia, automação e soluções que simplificam a vida das pessoas.  
 Atualmente estou focado em **evoluir como profissional de TI**, aprofundando meus conhecimentos em **desenvolvimento, automações com IA e sistemas inteligentes**, sempre buscando aprender algo novo todos os dias.
 
----
+
 ## 🚀 Sobre mim
 
 - 👨‍💻 Experiência e estudos em **Informática, Engenharia de Software e Programação**
