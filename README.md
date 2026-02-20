@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Luiz Felipe Jeske
 
-<!--
-**LuizJeske/LuizJeske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Núcleo de Informática - UNIFEBE
+💻 Desenvolvedor em formação | Automação com IA | Tecnologia & Inovação  
+📍 Brusque / SC / Brasil  
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia, automação e soluções que simplificam a vida das pessoas.  
+Atualmente estou focado em **evoluir como profissional de TI**, aprofundando meus conhecimentos em **desenvolvimento, automações com IA e sistemas inteligentes**, sempre buscando aprender algo novo todos os dias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Sobre mim
+
+- 👨‍💻 Experiência e estudos em **Informática, Engenharia de Software e Programação**
+- 🤖 Iniciando na área de **Automações com Inteligência Artificial**
+- 🌱 Em constante evolução pessoal, profissional e técnica
+- 🧠 Valorizo organização, clareza, aprendizado contínuo e boas práticas
+
+
+## 🛠️ Tecnologias & Conhecimentos
+
+### 💻 Programação & Desenvolvimento
+- Front-end / Web Design  
+- Back-end com **Python**  
+- Lógica de Programação  
+- Criação de sistemas e automações  
+
+### 🗄️ Dados & Infraestrutura
+- Banco de Dados  
+- Redes de Computadores  
+- Sistemas Operacionais  
+- Hardware  
+
+### 📊 Ferramentas & Produtividade
+- Pacote Office (Excel, Word, PowerPoint)
+- Organização de processos e documentação
+- Diagramas (ex: PlantUML)
+
+
+## 🤖 Interesses Atuais
+
+- Automações com IA aplicadas a negócios
+- Integrações inteligentes (bots, fluxos automáticos, sistemas)
+- Produtividade pessoal e organização
+- Linguagens de programação como Python, JavaScript, HTML...
+- Criação de soluções digitais escaláveis
+- Conteúdo digital e tecnologia aplicada
+
+
+📩 Estou sempre aberto a trocar ideias, aprender junto e criar projetos interessantes
+⭐ Se você curtiu algum projeto, não esquece de deixar uma estrela!
