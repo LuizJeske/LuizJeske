@@ -47,5 +47,6 @@ Atualmente estou focado em **evoluir como profissional de TI**, aprofundando meu
 - Criação de soluções digitais escaláveis
 - Conteúdo digital e tecnologia aplicada
 
--
+
 📩 Estou sempre aberto a trocar ideias, aprender junto e criar projetos interessantes
+-
