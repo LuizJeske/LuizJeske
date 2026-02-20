@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Luiz Felipe Jeske
+# Olá, eu sou o Luiz Felipe Jeske
 
 🎯 Núcleo de Informática - UNIFEBE
 
@@ -6,16 +6,16 @@
 
 📍 Brusque / SC / Brasil  
 
-Sou apaixonado por tecnologia, automação e soluções que simplificam a vida das pessoas.  
+Gosto bastante de tecnologia, automação e soluções que simplificam a vida das pessoas.  
 Atualmente estou focado em **evoluir como profissional de TI**, aprofundando meus conhecimentos em **desenvolvimento, automações com IA e sistemas inteligentes**, sempre buscando aprender algo novo todos os dias.
 
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 Experiência e estudos em **Informática, Engenharia de Software e Programação**
-- 🤖 Iniciando na área de **Automações com Inteligência Artificial**
-- 🌱 Em constante evolução pessoal, profissional e técnica
-- 🧠 Valorizo organização, clareza, aprendizado contínuo e boas práticas
+- Experiência e estudos em **Informática, Engenharia de Software e Programação**
+- Iniciando na área de **Automações com Inteligência Artificial**
+- Em constante evolução pessoal, profissional e técnica
+- Valorizo organização, clareza, aprendizado contínuo e boas práticas
 
 
 ## 🛠️ Tecnologias & Conhecimentos
